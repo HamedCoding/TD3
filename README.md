@@ -8,5 +8,5 @@ The figure shows rewards and rolling rewards for 1020 episodes.
   
 The following gif is the test result.   
 <p align="center">
-  <img src="https://github.com/hamedmkazemi/TD3-BipedalWalker/blob/main/TD3-BipedalWalker-v3.gif" alt="Sublime's custom image"/>
+  <img src="https://github.com/hamedmkazemi/TD3-BipedalWalker/blob/main/result.gif" alt="Sublime's custom image"/>
 </p>  
