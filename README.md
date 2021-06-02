@@ -1,4 +1,5 @@
 # TD3-BipedalWalker  
+![GitHub](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![GitHub](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg)  
 Twin Delayed DDPG (TD3) learns to play BipedalWalker-v3 (OpenAI/gym)  
   
 The figure shows rewards and rolling rewards for 1020 episodes.  
